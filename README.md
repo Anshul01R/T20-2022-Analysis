@@ -60,4 +60,4 @@ This project analyzes player and team performances from the T20 World Cup 2022 u
 
     1.  Power Hitters / Openers Analysis
     
-        ![DashBoard Description](Dashboard ScreenShot/Power Hitter.png)
+        ![DashBoard Description](./Dashboard ScreenShot/Power Hitter.png)
