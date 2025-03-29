@@ -1,5 +1,7 @@
 # 🏏 T20 2022 Data Analysis Project
 
+### Dashboard Link : https://app.powerbi.com/links/Zcc-3_95YX?ctid=68a6b772-3760-49f5-b2d2-6a292154f999&pbi_source=linkShare
+
 ## 📊 Project Overview
 This project analyzes player and team performances from the T20 World Cup 2022 using Power BI for interactive visualizations, Python (Web Scraping) for data extraction, and Excel for data preprocessing and cleaning.
 
