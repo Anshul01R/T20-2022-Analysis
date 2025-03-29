@@ -3,7 +3,7 @@
 📊 Project Overview
 This project analyzes player and team performances from the T20 World Cup 2022 using Power BI for interactive visualizations, Python (Web Scraping) for data extraction, and Excel for data preprocessing and cleaning.
 
-Key Objectives:
+🎯 Key Objectives:
 
 ✅ Identify top-performing players across different roles (openers, finishers, bowlers, all-rounders).
 
@@ -52,6 +52,6 @@ Key Objectives:
 
     Web Scraping: Python scripts extract raw player and match data from cricket websites.
 
-    Data Cleaning: Python and Excel used to remove inconsistencies and standardize formats .
+    Data Cleaning: Python and Excel used to remove inconsistencies and standardize formats.
 
     Data Transformation: Processed data imported into Power BI for analysis and dashboard creation.
