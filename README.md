@@ -4,9 +4,13 @@
 This project analyzes player and team performances from the T20 World Cup 2022 using Power BI for interactive visualizations, Python (Web Scraping) for data extraction, and Excel for data preprocessing and cleaning.
 
 Key Objectives:
+
 ✅ Identify top-performing players across different roles (openers, finishers, bowlers, all-rounders).
+
 ✅ Analyze batting and bowling statistics to optimize team selection and predict outcomes.
+
 ✅ Evaluate team performance based on critical metrics such as batting average, strike rate, economy, and dot ball percentage.
+
 ✅ Provide actionable insights for building a winning Final XI using data-driven decisions.
 
 🧩 Tech Stack
