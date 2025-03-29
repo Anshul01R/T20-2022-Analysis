@@ -58,6 +58,10 @@ This project analyzes player and team performances from the T20 World Cup 2022 u
 
 ## 📊 Sample Dashboards
 
-    ### 1.  Power Hitters / Openers Analysis
-        ![Dashboard Description](Dashboard%20ScreenShot/Power%20Hitter.png)
+1.  Power Hitters / Openers Analysis
+   ![Dashboard Description](Dashboard%20ScreenShot/Power%20Hitter.png)
+2. Finisher
+   ![Dashboard Description](Dashboard%20ScreenShot/Finisher.png)
+3. Final 11
+   ![Dashboard Description](Dashboard%20ScreenShot/Final%2011.png)
 
